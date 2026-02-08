@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "桜想",
+  "base_artist": "Yuika",
+  "createdAt": "2026-02-08T12:55:59.953839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桜想 (樱花树下的思念)",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/01_桜想_(樱花树下的思念)_『ユイカ』.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桜想",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/02_桜想_『ユイカ』.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜想",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_桜想_『ユイカ』.txt"
+    }
+  ]
+}
